@@ -2,3 +2,5 @@ pandas
 numpy
 pycoingecko
 python-binance
+requests
+matplotlib
